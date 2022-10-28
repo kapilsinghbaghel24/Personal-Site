@@ -124,7 +124,7 @@ header .follow a:hover {
     display: none;
 }
 
-.cursor-1 {
+/* .cursor-1 {
     position: absolute;
     top: 0;
     left: 0;
@@ -141,9 +141,9 @@ header .follow a:hover {
     height: 7rem;
     width: 7rem;
     opacity: .3;
-}
+} */
 
-.cursor-2 {
+/* .cursor-2 {
     position: absolute;
     top: 0;
     left: 0;
@@ -155,7 +155,7 @@ header .follow a:hover {
     border-radius: 50%;
     z-index: 10000;
     transition: .3s linear;
-}
+} */
 
 .cursor-2.active {
     display: none;
